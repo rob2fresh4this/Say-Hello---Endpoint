@@ -9,7 +9,7 @@ namespace SayHello.Controllers
         public List<string> sayHello = new();
 
         public SayHelloController(){
-            
+            sayHello.Add("Say Hello");
         }
 
 
