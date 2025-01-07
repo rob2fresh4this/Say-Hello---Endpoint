@@ -14,3 +14,29 @@ Design an API endpoint that receives user input and outputs a personalized greet
 
 ## Note
 - This project **WILL NOT** be hosted on Vercel.
+
+---
+
+### Documentation  
+
+#### Your Names:  Robert G.
+
+#### Date Revised  
+- [1/6/25]  
+
+#### Exercise or Lab Name  
+[Say Hello - Endpoint]
+
+#### Revision History  
+- [1/6/25] done  
+
+# Review by: 
+
+### Overall Feedback:  
+
+
+### Suggestions:
+- []
+- []
+
+### Final Thoughts: 
